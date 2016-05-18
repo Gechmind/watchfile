@@ -1,0 +1,28 @@
+{
+  "name": "watchfile",
+  "version": "1.0.0",
+  "description": "use grunt to watch project file",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gechmind/watchfile.git"
+  },
+  "keywords": [
+    "grunt",
+    "watch"
+  ],
+  "author": "Gechmind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gechmind/watchfile/issues"
+  },
+  "homepage": "https://github.com/Gechmind/watchfile#readme",
+  "devDependencies":{
+    "grunt": "^0.4.1",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
